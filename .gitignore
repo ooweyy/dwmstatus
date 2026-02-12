@@ -1,4 +1,7 @@
+*.o
+*~
+\#*\#
 dwmstatus
 mailstatus
+alarm
 config.mk
-*.o
